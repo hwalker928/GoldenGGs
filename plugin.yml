@@ -1,0 +1,10 @@
+name: GoldenGGs
+author: Repoleved
+version: 1.3
+api-version: 1.15
+#Please replace main: with your own package!
+main: me.repoleved.goldenggs.main
+permissions:
+    goldenggs.gg:
+        description: This permission allows you to use GoldenGGs
+        default: op
